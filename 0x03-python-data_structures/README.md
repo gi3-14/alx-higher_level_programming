@@ -1,1 +1,1 @@
-Learning about import and modules in Python
+Learning about data structures in Python
