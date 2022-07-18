@@ -1,5 +1,3 @@
-nes (11 sloc)  261 Bytes
-
 #!/usr/bin/python3
 
 
